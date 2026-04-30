@@ -21,6 +21,9 @@ jobs:
         run: npm ci
 
       - name: Build and export
+        env:
+          NEXT_PUBLIC_BASE_PATH: /website
+          NEXT_PUBLIC_SITE_URL: https://sidhuk007.github.io/website
         run: npm run predeploy
 
       - name: Deploy to GitHub Pages
