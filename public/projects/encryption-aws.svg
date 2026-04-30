@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100">
+  <rect width="1600" height="1100" fill="#0f1318"/>
+  <rect x="70" y="70" width="1460" height="960" rx="36" fill="#191f26" stroke="#ff8a1f" stroke-width="4"/>
+  <text x="110" y="210" fill="#ff8a1f" font-family="Arial" font-size="42">LIGHTWEIGHT ENCRYPTION AWS MONITORING</text>
+  <text x="110" y="320" fill="#ffffff" font-family="Arial" font-size="108" font-weight="700">AWS</text>
+  <text x="110" y="430" fill="#aeb7c2" font-family="Arial" font-size="44">Encryption performance analysis in cloud workloads</text>
+  <rect x="110" y="520" width="360" height="70" rx="14" fill="#232a33"/>
+  <text x="145" y="567" fill="#ffffff" font-family="Arial" font-size="34">Python + AWS + Metrics</text>
+</svg>
